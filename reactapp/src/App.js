@@ -13,8 +13,8 @@ function App() {
     {
       key:1,
       question:'Who is the father of the nation ?',
-      //correctAnswerMarkUpdate,
-      //attempt,
+      correctAnswerMarkUpdate,
+      attempt,
       options : {
         option1: 'Mahatma Gandhi',
         option2: 'Jawaharlal Nehru',
